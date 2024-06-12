@@ -13,10 +13,13 @@ body, html{
 }
 .contaniner{
     display: flex;
-    justify-content:center; 
+    justify-content:center;
     align-items: center;
     background-color: #2794c6;
     color: rgba(255, 255, 255, 0.76);
+}
+h1{
+    justify-content:center;
 }
 img{
     margin-top: 10px;
@@ -30,6 +33,7 @@ nav{
     list-style: none;
     padding: 0;
     text-align: center;
+    
 }
 nav ul li{
     display: inline;

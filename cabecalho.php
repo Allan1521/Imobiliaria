@@ -30,29 +30,40 @@
                 </ul>
                 <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
                     aria-expanded="false">
-                    Administrativo
+                    Finalidades
                 </a>
                 <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="#">Alugar Livro</a></li>
-                    <li><a class="dropdown-item" href="#">Devolver Livro</a></li>
+                    <li><a class="dropdown-item" href="#">Alugar </a></li>
+                    <li><a class="dropdown-item" href="#">Vender</a></li>
 
                 </ul>
                 </li>
                 </ul>
                 <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
                     aria-expanded="false">
-                    Relatório
+                    Contratos
                 </a>
                 <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="#">Listar Livros</a></li>
-                    <li><a class="dropdown-item" href="#">Listar Livros</a></li>
-                    <li><a class="dropdown-item" href="#">Relatório de Devolução</a></li>
+                    <li><a class="dropdown-item" href="#">Contratos de Locação</a></li>
+                    <li><a class="dropdown-item" href="#">Contratos de Compra e Venda</a></li>
+                    <li><a class="dropdown-item" href="#">Contratos e Finaciamentos</a></li>
                 </ul>
                 </li>
                 </ul>
 
             </div>
+            <div id="localization" class="box-info-contato">
+                <!-- flex direction row wrap; width 40vw -->
+                <i class="fas fa-map-marker-alt"></i>
+                <div class="address">
+                    <p>Av. Cons. Nébias, 111</p>
+                    <p>Santos - SP | CEP: 11075-320</p>
+
+                </div>
+
+            </div>
         </div>
+        
     </nav>
 
     <!-- End Example Code -->
