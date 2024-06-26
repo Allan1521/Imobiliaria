@@ -20,6 +20,7 @@ body, html{
 }
 h1{
     justify-content:center;
+    text-align: center;
 }
 img{
     margin-top: 10px;
@@ -32,8 +33,7 @@ img{
 nav{
     list-style: none;
     padding: 0;
-    text-align: center;
-    
+    text-align: center; 
 }
 nav ul li{
     display: inline;
@@ -73,3 +73,13 @@ nav ul li a{
 .navbar-custom .nav-link{
     padding: 0.5em 1em;
 }
+.address {
+     color:#ffff;
+    text-align: center;
+    
+}
+.form{
+    font-size: 100%;
+}
+
+

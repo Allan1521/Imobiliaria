@@ -8,7 +8,7 @@
     <link href="https://getbootstrap.com/docs/5.3/assets/css/docs.css" rel="stylesheet">
 
     <title>Imobiliária</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="style.css">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </head>
 
@@ -23,7 +23,7 @@
                     Cadastro
                 </a>
                 <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="cadastro_imovel.php">Cadastrar Imóvel</a></li>
+                    <li><a class="dropdown-item" href="cadastro_imovel.php">Cadastrar Imóvel</a></li>
 
                 </ul>
                 </li>
@@ -50,20 +50,17 @@
                 </ul>
                 </li>
                 </ul>
+            </div>
+            <div class= "address">
+                <p>Av. Cons. Nébias, 111
+                    Santos - SP | CEP: 11075-320
+                </p>
 
             </div>
-            <div id="localization" class="box-info-contato">
-                <!-- flex direction row wrap; width 40vw -->
-                <i class="fas fa-map-marker-alt"></i>
-                <div class="address">
-                    <p>Av. Cons. Nébias, 111</p>
-                    <p>Santos - SP | CEP: 11075-320</p>
 
-                </div>
 
-            </div>
+
         </div>
-        
     </nav>
 
     <!-- End Example Code -->
